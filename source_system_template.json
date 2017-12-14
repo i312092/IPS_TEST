@@ -2,7 +2,7 @@
   "properties": {
     "ips.dummy.connector.entity.type": "user",
 
-    "ips.trace.failed.entity.content": "true",
+
     
   }
 }
