@@ -1,6 +1,6 @@
 {
   "properties": {
-    "ips.dummy.connector.entity.type": "user",
+    "ips.dummy.connector.entity.type": "user"
 
 
     
